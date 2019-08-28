@@ -50,7 +50,7 @@ Despues de haber ejecutado el comando anterior ingresamos a la carpeta de destin
 
 revisamos su contenido
 
-![nuevo-modulo](imagenes/9_Verificamos_el_contenido.PNG)
+![verificamos-contenido](imagenes/9_Verificamos_el_contenido.PNG)
 
 la creación del nuevo módulo fue un exito, ahora modificaremos el módulo para mayor personalización.
 
@@ -58,27 +58,27 @@ la creación del nuevo módulo fue un exito, ahora modificaremos el módulo para
 
 Veremos el contenido de nuestro archivo **__init_.py** para saber como es en un principio.
 
-![nuevo-modulo](imagenes/10_Vemos_el_contenido_del_archivo_init.PNG)
+![init.py](imagenes/10_Vemos_el_contenido_del_archivo_init.PNG)
 
 Ahora modificaremos el contenido del archivo **__manifest_.py** del cual se extrae la informacion del módulo
 
-![nuevo-modulo](imagenes/11_Modificamos_parametros_en_el_archivo_manifest.PNG)
+![manifest.py](imagenes/11_Modificamos_parametros_en_el_archivo_manifest.PNG)
 
 Para que nos aparezca este nuevo módulo tenemos que actualizar la lista de aplicaciones y confirmamos dicha actualización
 
-![nuevo-modulo](imagenes/12_Actualizamos_la_lista_de_aplicaciones.PNG)
+![actualizacion-aplicaciones](imagenes/12_Actualizamos_la_lista_de_aplicaciones.PNG)
 
-![nuevo-modulo](imagenes/13_confirmacion_de_actualiacion.PNG)
+![confirma-actualizacion](imagenes/13_confirmacion_de_actualiacion.PNG)
 
 Verificamos la existencia de nuestro módulo y luego  lo instalaremos para verificar que efectvamente se puede usar en ODOO.
 
-![nuevo-modulo](imagenes/14_verificamos_la_existencia_de_nuestro_modulo.PNG)
+![existencia-testmodulo1](imagenes/14_verificamos_la_existencia_de_nuestro_modulo.PNG)
 
-![nuevo-modulo](imagenes/15_Instalamos_nuestro_modulo_y_verificamos.PNG)
+![instalacion-testmodulo1](imagenes/15_Instalamos_nuestro_modulo_y_verificamos.PNG)
 
 Vemos los detalles para verificar que nuestros cambios si se realizaron con exito en el archivo **__manifest_.py**
 
-![nuevo-modulo](imagenes/16_Vemos_los_detalles_y_comprobamos_que_se_pueda_desinstalar.PNG)
+![detalles-testmodulo1](imagenes/16_Vemos_los_detalles_y_comprobamos_que_se_pueda_desinstalar.PNG)
 
 #### Descripción de funcionalidad de cada elemento.
  Nro | Nombre de Módulo | Descripción 
